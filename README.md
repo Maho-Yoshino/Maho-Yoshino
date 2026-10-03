@@ -27,7 +27,7 @@ Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in a `Software 
 <ul>  
 	<li><a href="https://github.com/Order-Of-The-Birb/ThunderAPI">ThunderAPI</a> - A REST API, which acts as a translation layer for <strong>Gaijin Entertainment</strong>'s undocumented proprietary endpoints</li>  
 	<li><a href="https://github.com/Order-Of-The-Birb/peck-bot">Peck bot</a> + <a href="https://github.com/Order-Of-The-Birb/peck-management">Peck management</a> - Proprietary management utilities in the form of a Discord bot and a website</li>  
-	<li><a href="https://github.com/Maho-Yoshino/countdown-timer">Countdown Timer</a> - A small countdown utility, for preset events. Made for school use, but can be used for other things</li>  
+	<li><a href="https://github.com/Maho-Yoshino/countdown-timer">Countdown Timer</a> - A small countdown utility for preset events. Made for school use, but can be used for other things</li>  
 	<li><del><a href="https://github.com/Hirfigyelo">Hírkontextus</a> - Hungarian <a href="https://ground.news/">Ground news</a> equivalent - Made for "Vizsgaremek", a Hungarian final project</del> (Currently in development)</li>  
 </ul>  
 
