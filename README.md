@@ -5,21 +5,21 @@ I'm a student currently learning software development and testing.
 
 I am interested in open source software, military equipment and software development  
 
-I started learning Python all the way back around 2019 by myself, and decided in 2021, that I wanted to pursue this as a profession.  
+I started learning Python all the way back around 2019 by myself, and decided in 2021 that I wanted to pursue this as a profession.  
 I started learning at <a href="https://wm-iskola.hu/">Weiss Manfréd Technical School</a> in September 2021 in the `Software developer and tester` specialization.  
 Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in a `Software engineer` program.  
 ### Currently learning  
 <ul>  
-	<li><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" align="center"></li>  
-	<li><img src="https://img.shields.io/badge/AvaloniaUI-165BFF.svg?style=for-the-badge&logo=AvaloniaUI&logoColor=white" align="center"></li>  
-	<li><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" align="center"></li>  
+	<li><a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" align="center"></a></li>  
+	<li><a href="https://avaloniaui.net/"><img src="https://img.shields.io/badge/AvaloniaUI-165BFF.svg?style=for-the-badge&logo=AvaloniaUI&logoColor=white" align="center"></a></li>  
+	<li><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" align="center"></a></li>  
 </ul>  
 
 ### I plan to learn in the future  
 <ul>  
-	<li><img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" align="center"></li>  
-	<li><img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" align="center"></li>  
-	<li><img src="https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white" align="center"></li>  
+	<li><a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" align="center"></a></li>  
+	<li><a href="https://rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white" align="center"></a></li>  
+	<li><a href="https://www.qt.io/"><img src="https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white" align="center"></a></li>  
 </ul>  
 
 ## Projects  
@@ -41,39 +41,44 @@ Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in a `Software 
 
 <ul>  
 	<li>  
-		<img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">  
+		<a href="https://python.org/"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>  
 		<ul>  
 			<li>  
-				<img align="center" src="https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&style=for-the-badge&logoColor=white">  
+				<a href="https://pypi.org/"><img align="center" src="https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&style=for-the-badge&logoColor=white"></a>  
 			</li>  
 			<li>  
-				<img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white">  
+				<a href="https://fastapi.tiangolo.com/"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white"></a>  
 			</li>  
 			<li>  
-				<img align="center" src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=AIOHTTP&logoColor=white">  
+				<a href="https://docs.aiohttp.org/en/stable/index.html"><img align="center" src="https://img.shields.io/badge/AIOHTTP-2C5BB4.svg?style=for-the-badge&logo=AIOHTTP&logoColor=white"></a>  
 			</li>  
 		</ul>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center"> + <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center"> + <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center"> + <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center">  
+		<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" align="center"></a> + <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center"></a> + <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center"></a> + <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" align="center">  
+		<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" align="center"> + <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" align="center">  
+		<a href="https://sqlite.org/download.html"><img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" align="center"></a> + <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" align="center">  
+		<a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" align="center">  
+		<a href="https://www.libreoffice.org/"><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center">  
+		<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" align="center">  
+		<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" align="center"></a>  
+		<ul>  
+			<li>  
+				<a href="https://docs.docker.com/compose/"><img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" align="center"></a>  
+			</li>  
+		</ul>  
 	</li>  
 </ul>  
 
@@ -82,13 +87,13 @@ Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in a `Software 
 ## Computer stack  
 <ul>  
 	<li>  
-		<img src="https://img.shields.io/badge/EndeavourOS-7F7FFF.svg?style=for-the-badge&logo=EndeavourOS&logoColor=white" align="center"> + <img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3.svg?style=for-the-badge&logo=KDE-Plasma&logoColor=white" align="center">  
+		<a href="https://endeavouros.com/"><img src="https://img.shields.io/badge/EndeavourOS-7F7FFF.svg?style=for-the-badge&logo=EndeavourOS&logoColor=white" align="center"></a> + <a href="https://kde.org/plasma-desktop/"><img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3.svg?style=for-the-badge&logo=KDE-Plasma&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" align="center">  
+		<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" align="center"></a>  
 	</li>  
 	<li>  
-		<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" align="center"> + <img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white" align="center">  
+		<a href="https://www.firefox.com/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" align="center"></a> + <a href="https://duckduckgo.com/"><img src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white" align="center"></a>  
 	</li>  
 </ul>  
 
