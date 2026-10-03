@@ -1,18 +1,13 @@
 # Maho Yoshino  
 
-<div align="center">  
-	<img src="https://img.shields.io/github/followers/Maho-Yoshino?style=flat-square&color=lightblue">  
-	<img src="https://img.shields.io/github/stars/Maho-Yoshino?style=flat-square&color=red">  
-</div>  
-
 ## About me  
 I'm a student currently learning software development and testing.  
 
 I am interested in open source software, military equipment and software development  
 
-I started learning Python all the way back around 2019 by myself, and decided in 2021, that I want to pursue this as a profession.  
+I started learning Python all the way back around 2019 by myself, and decided in 2021, that I wanted to pursue this as a profession.  
 I started learning at <a href="https://wm-iskola.hu/">Weiss Manfréd Technical School</a> in September 2021 in the `Software developer and tester` specialization.  
-Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in the `Software engineer` profession.  
+Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in a `Software engineer` program.  
 ### Currently learning  
 <ul>  
 	<li><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" align="center"></li>  
@@ -32,7 +27,7 @@ Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in the `Softwar
 <ul>  
 	<li><a href="https://github.com/Order-Of-The-Birb/ThunderAPI">ThunderAPI</a> - A REST API, which acts as a translation layer for <strong>Gaijin Entertainment</strong>'s undocumented proprietary endpoints</li>  
 	<li><a href="https://github.com/Order-Of-The-Birb/peck-bot">Peck bot</a> + <a href="https://github.com/Order-Of-The-Birb/peck-management">Peck management</a> - Proprietary management utilities in the form of a Discord bot and a website</li>  
-	<li><a href="https://github.com/Maho-Yoshino/countdown-timer">Countdown Timer</a> - A small countdown utility, until preset events. Made for School use, but can be used for other things</li>  
+	<li><a href="https://github.com/Maho-Yoshino/countdown-timer">Countdown Timer</a> - A small countdown utility, for preset events. Made for school use, but can be used for other things</li>  
 	<li><del><a href="https://github.com/Hirfigyelo">Hírkontextus</a> - Hungarian <a href="https://ground.news/">Ground news</a> equivalent - Made for "Vizsgaremek", a Hungarian final project</del> (Currently in development)</li>  
 </ul>  
 
@@ -100,3 +95,10 @@ Afterwards I plan to go to <a href="https://www.bme.hu/">BME</a> in the `Softwar
 ## Contact  
 <a href="mailto:mahoyoshino@proton.me"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"></a>  
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" align="center"></a> Add me: mahoyoshino  
+
+## Stats  
+
+<div align="center">  
+	<img src="https://img.shields.io/github/followers/Maho-Yoshino?style=flat-square&color=lightblue">  
+	<img src="https://img.shields.io/github/stars/Maho-Yoshino?style=flat-square&color=red">  
+</div>  
